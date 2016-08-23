@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/mytardis/mytardis.png?label=ready&title=Ready 
+ :target: https://waffle.io/mytardis/mytardis
+ :alt: 'Stories in Ready'
 MyTardis
 ========
 
